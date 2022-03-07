@@ -1,0 +1,17 @@
+[package]
+name = "phys"
+version = "0.0.1"
+authors = [
+    "Chris Ohk <utilforever@gmail.com>",
+    "Suhyun Jung <windseed71@naver.com>",
+    "Minseo Kim <dg4res@gmail.com>"
+]
+edition = "2021"
+description = "2D/3D physics engine for games written in Rust"
+
+readme = "README.md"
+license = "MIT"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
